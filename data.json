@@ -1,0 +1,106 @@
+{
+    "cartoonLogo": {
+        "logo": "https://television-plus.com/wp-content/uploads/2020/03/cartoonito-2-1536x755.png"
+    },
+
+        "shinchan": {
+          "name": "shinchan",
+          "followers": 25000,
+          "following": 5,
+          "profile": "https://pbs.twimg.com/profile_images/1272197536502042625/Cg8QvrYR_400x400.jpg",
+          "posts": [
+            {
+              "image": "https://yt3.ggpht.com/a/AATXAJzvxe9jJ9wzViCpgIWTqwpSlkOjikK7wyT_ng=s900-c-k-c0xffffffff-no-rj-mo",
+              "likes": 200,
+              "comments": 1170
+            },
+            {
+              "image": "https://i.pinimg.com/originals/7d/a2/24/7da224d8f6144eb497687fe51c920bb5.jpg",
+              "likes": 312,
+              "comments": 1910
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1272197536502042625/Cg8QvrYR_400x400.jpg",
+              "likes": 1065,
+              "comments": 2001
+            },
+            {
+                "image": "https://i.pinimg.com/736x/2d/56/e0/2d56e0145cb21e2bddf895ce47702bae--crayon-shin-chan-movie-tv.jpg",
+                "likes": 105,
+                "comments": 550
+              },
+              {
+                "image": "https://i.pinimg.com/originals/02/2d/56/022d564bcba1f96515e43b8eb98c2ef5.jpg",
+                "likes": 1650,
+                "comments": 921
+              }
+          ]
+        },
+
+        "tomandjerry": {
+          "name": "tomandjerry",
+          "followers": 75000,
+          "following": 150,
+          "profile": "https://i0.wp.com/teaser-trailer.com/wp-content/uploads/Tom-and-Jerry-movie-2021.jpg?ssl=1",
+          "posts": [
+            {
+              "image": "https://th.bing.com/th/id/R.63352b69058ece255d6fc774857919f2?rik=QJumCX5M40IdTA&riu=http%3a%2f%2fwww.hdwallpapersfreedownload.com%2fuploads%2flarge%2fcartoons%2ftom-and-jerry-wallpaper.jpg&ehk=rdHatsjP7yoJTTAsJM%2bQD0JtmJ9eRuAHZg1T3bhfc4g%3d&risl=&pid=ImgRaw&r=0",
+              "likes": 3000,
+              "comments": 41
+            },
+            {
+              "image": "https://i0.wp.com/teaser-trailer.com/wp-content/uploads/Tom-and-Jerry-movie-2021.jpg?ssl=1",
+              "likes": 2500,
+              "comments": 32
+            },
+            {
+              "image": "https://th.bing.com/th/id/R.6e32e8f1422791594c68ed079205c4b7?rik=WfG%2fstNRzKZjsw&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f37700000%2fTom-and-Jerry-tom-and-jerry-37796712-1024-768.jpg&ehk=Ow3hUIlSDcQx468tJkDkhKC37mHKlf0epumGe43tmOY%3d&risl=&pid=ImgRaw&r=0",
+              "likes": 500,
+              "comments": 6
+            },
+            {
+                "image": "https://wallpapercave.com/wp/wp3262330.jpg",
+                "likes": 250,
+                "comments": 302
+              },
+              {
+                "image": "https://i.ytimg.com/vi/aJtJDzrk5GA/hqdefault.jpg",
+                "likes": 950,
+                "comments": 892
+              }
+          ]
+        },
+        "oggyandcockroaches": {
+            "name": "oggyandcockroaches",
+            "followers": 85000,
+            "following": 350,
+            "profile": "https://i.pinimg.com/474x/49/4d/2e/494d2e25fad7412b4f11beb7242ba804.jpg",
+          "posts": [
+            {
+              "image": "https://i.pinimg.com/474x/49/4d/2e/494d2e25fad7412b4f11beb7242ba804.jpg",
+              "likes": 3000,
+              "comments": 41
+            },
+            {
+              "image": "https://wallpapercave.com/wp/wp2089447.jpg",
+              "likes": 2500,
+              "comments": 32
+            },
+            {
+              "image": "https://m.media-amazon.com/images/S/pv-target-images/7ff82d4c0b2abb0b85ced2522e4695e04d67c0b2b91bb0e51aaf2f5956dd3e8e.jpg",
+              "likes": 500,
+              "comments": 6
+            },
+            {
+                "image": "https://e0.pxfuel.com/wallpapers/429/1018/desktop-wallpaper-oggy-and-the-cockroaches.jpg",
+                "likes": 250,
+                "comments": 302
+              },
+              {
+                "image": "https://i.ytimg.com/vi/Dyg1ni_KK2U/maxresdefault.jpg",
+                "likes": 950,
+                "comments": 892
+              }
+            ]
+    }
+}

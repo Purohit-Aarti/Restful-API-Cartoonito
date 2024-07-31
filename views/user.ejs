@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= data.name %></title>
+    <link rel="stylesheet" href="/post.css">
+</head>
+<body>
+    <div>
+        <h1>@<%= data.name %></h1>
+        <img class="profile" src="<%= data.profile %>" alt="">
+        <h3>followers: <%= data.followers %></h3>
+        <h3>following: <%= data.following %></h3>
+        <hr>
+        <% for(let post of data.posts){%>
+            <img class="post" src="<%= post.image %>" alt="">
+        <% } %>
+        <br><br>
+        <form action="/cartoon" method="get">
+            <button style="width: 200px; font-weight: bold;">back to home</button>
+        </form>
+    </div>
+</body>
+</html>

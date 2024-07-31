@@ -1,0 +1,27 @@
+body{
+    background-color:black;
+    text-align: center;
+}
+
+.logo{
+    width: 800px;
+    height: 300px;
+}
+
+h3{
+    color: rgb(213, 199, 72);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+ul{
+    text-align: center;
+}
